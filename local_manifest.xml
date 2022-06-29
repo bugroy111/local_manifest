@@ -5,6 +5,7 @@
         <remote name="bugroy111" fetch="https://github.com/bugroy111" />
 
         <project path="device/lenovo/karate" name="device_lenovo_karate" remote="bugroy111" revision="lineage-18.1" />
+        <project path="device/lenovo/karatep" name="device_lenovo_karatep" remote="bugroy111" revision="lineage-18.1" />
         <project path="device/lenovo/karate-common" name="device_lenovo_karate-common" remote="bugroy111" revision="lineage-18.1" />
         <project path="vendor/lenovo" name="vendor_lenovo" remote="bugroy111" revision="lineage-18.1" />
         <project path="kernel/lenovo/msm8937" name="kernel_lenovo_msm8937" remote="bugroy111" revision="lineage-18.1" />
